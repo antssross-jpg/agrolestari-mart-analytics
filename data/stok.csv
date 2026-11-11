@@ -1,0 +1,25 @@
+product_id,produk,kategori,stok_akhir,reorder_point,safety_stock
+P01,Telur Ayam Bahagia,Telur,180,1100,440
+P02,Telur Ayam Bahagia pack karton isi 10,Telur,90,90,36
+P03,Telur Bebek Bahagia,Telur,120,225,90
+P04,Telur Asin Cage free pack isi 4,Telur,70,60,24
+P05,Susu Sapi 1 liter plastik,Susu Sapi & Kambing,200,300,120
+P06,Susu Sapi 1 liter isi Ulang,Susu Sapi & Kambing,180,200,80
+P07,Susu Kambing 1 liter plastik,Susu Sapi & Kambing,80,75,30
+P08,Yummy yogurt sapi 250ml,Olahan Susu & Minuman,200,175,70
+P09,Happy milk 250ml,Olahan Susu & Minuman,260,225,90
+P10,Beefsice 250gr,Daging Sapi & Kambing,110,100,40
+P11,Daging giling 250gr,Daging Sapi & Kambing,90,80,32
+P12,Dimsum Happy,Frozen Food,130,110,44
+P13,Siomay yamcha,Frozen Food,100,90,36
+P14,Ayam Goreng si Mande,Lauk Frozen,150,150,60
+P15,Chicken katsu,Lauk Frozen,130,125,50
+P16,Ayam Kampung 1 ekor,Ayam Organik,80,70,28
+P17,Fillet dada Organic 500gr,Ayam Organik,420,60,24
+P18,Nila Bumbu,Ikan Bumbu & Seafood,110,100,40
+P19,Udang rebus 500gr,Ikan Bumbu & Seafood,60,50,20
+P20,Lumpia Udang,Snack Home Made,110,90,36
+P21,Risol Smoke Beef Chese Mayo,Snack Home Made,120,100,40
+P22,Bakso sapi NON MSG,Frozen Non MSG,200,175,70
+P23,Nugget Ayam NON MSG,Frozen Non MSG,170,150,60
+P24,Sosis Ayam NON MSG,Frozen Non MSG,150,125,50
